@@ -4,7 +4,7 @@
 </h3>
 <p align="center">
   <a href="https://github.com/adnanmalkani">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey%2C+I'm+Your+Name;A+Passionate+Full+Stack+Dev;Specializing+in+React.js+and+Next.js;Creating+Digital+Experiences"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hey%2C+I'm+Adnan;A+Passionate+Full+Stack+Dev;Specializing+in+React.js+and+Next.js;Creating+Digital+Experiences"></a>
 </p>
 
 ---
